@@ -1,0 +1,16 @@
+{
+  "name": "breathe-relax-app",
+  "version": "1.0.0",
+  "description": "Breathe & Relax App Using JavaScript & CSS Animations",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/breathe-relax-app/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
